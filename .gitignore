@@ -1,3 +1,11 @@
+# VS Code Files/Folders
+.vscode/
+
+# Large Data Files
+bottle.csv
+cast.csv
+calcofi.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
